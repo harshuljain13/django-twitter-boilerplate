@@ -1,2 +1,2 @@
-# django-twitter-boilerplate-code
+# django-twitter-boilerplate
 boilerplate code for django and twitter interfacing
